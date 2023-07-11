@@ -5,8 +5,8 @@ learning algorithms for audio classification is 1-Dimensional Convolutional Neur
 
 ## Data and code files
 * The augmented and segmented dataset after preprocessing the original Physionet dataset is contain in the "Physionet_chunks_8sec" directory.  
-"Augmentation_and segmentation.ipynb" has the preprocessing code of augmentation and segmention of an audio signal.
-"physionet-1d-cnn-final" has the 1D CNN model training, testing and evaluation code.
+* "Augmentation_and segmentation.ipynb" has the preprocessing code of augmentation and segmention of an audio signal.
+* "physionet-1d-cnn-final" has the 1D CNN model training, testing and evaluation code.
 
 ## Access to Material:
 The material provided in this repository is made available for reference and educational purposes. You are free to use and modify the material while adhering to the terms of the license mentioned in the repository. When utilizing or referencing this material, please give appropriate credit by mentioning the original creator and the research article:
